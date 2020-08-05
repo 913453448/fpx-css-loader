@@ -13,13 +13,13 @@
 
 ### rem
 
-![res-rem](/Users/ocj1/doc/h5/study/fpx-css-loader/res-rem.png)
+![res-rem](https://github.com/913453448/fpx-css-loader/blob/master/res-rem.png)
 
 可以看到，绝大多数的浏览器是兼容的，平时项目用它完全是没毛病！
 
 ### vw
 
-![res-vw](/Users/ocj1/doc/h5/study/fpx-css-loader/res-vw.png)
+![res-vw](https://github.com/913453448/fpx-css-loader/blob/master/res-vw.png)
 
 vm跟rem比就差多了，不过当下大部分手机是可以覆盖的。
 
@@ -376,11 +376,11 @@ export default {
 
 ## 效果
 
-![res-iphone5](/Users/ocj1/doc/h5/study/fpx-css-loader/res-iphone5.png)
+![res-iphone5](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone5.png)
 
-![res-iphone6](/Users/ocj1/doc/h5/study/fpx-css-loader/res-iphone6.png)
+![res-iphone6](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone6.png)
 
-![res-iphone6p](/Users/ocj1/doc/h5/study/fpx-css-loader/res-iphone6p.png)
+![res-iphone6p](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone6p.png)
 
 项目已上传github：[https://github.com/913453448/fpx-css-loader](https://github.com/913453448/fpx-css-loader),  欢迎start、欢迎fork！！
 
