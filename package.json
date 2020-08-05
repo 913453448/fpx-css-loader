@@ -11,11 +11,18 @@
     "rem",
     "vw"
   ],
+  "files": [
+    "parser",
+    "postcss",
+    "utils",
+    "index.js",
+    "plugin.js"
+  ],
   "author": "yasin",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "http://git.erp.ocj.com.cn:9000/fe/opgpublic/fox.git"
+    "url": "https://github.com/913453448/fpx-css-loader.git"
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
