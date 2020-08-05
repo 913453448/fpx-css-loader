@@ -236,7 +236,7 @@ module.exports = postcss.plugin('postcss-plugin-fvm', (options) => {
 ### 安装
 
 ```bash
-➜ npm install fpx-css-loader -D
+➜ npm install  fpx-webpack-loader -D
 ```
 
 ### 配置
@@ -265,7 +265,7 @@ vue.config.js:
 module.exports = {
     chainWebpack: config => {
         ["css"].forEach((r) => {
-            config.module.rule(r).oneOf('vue').use("fpx-loader").before("postcss-loader").loader(require.resolve("fpx-css-loader")).options({ //默认配置
+            config.module.rule(r).oneOf('vue').use("fpx-loader").before("postcss-loader").loader(require.resolve("fpx-webpack-loader")).options({ //默认配置
   rootValue: {
     fpx: 750, //ui基准
   },
@@ -274,7 +274,7 @@ module.exports = {
   platform: 'web', //平台选择
   unitPrecision: 5, //计算过后的值保留的小数位
 });
-            config.module.rule(r).oneOf('normal').use("fpx-loader").before("postcss-loader").loader(require.resolve("fpx-css-loader")).options({ //默认配置
+            config.module.rule(r).oneOf('normal').use("fpx-loader").before("postcss-loader").loader(require.resolve(" fpx-webpack-loader")).options({ //默认配置
   rootValue: {
     fpx: 750, //ui基准
   },
@@ -310,7 +310,7 @@ module.exports = {
                             }
                         }
                     },
-                    "fpx-css-loader", //配置loader,不传就使用默认参数
+                    "fpx-webpack-loader", //配置loader,不传就使用默认参数
                     "sass-loader"
                 ],
             }
@@ -318,7 +318,7 @@ module.exports = {
       ...
     },
     plugins: [
-        new (require("fpx-css-loader").FoxCssPlugin)(), //配置plugin
+        new (require("fpx-webpack-loader").FoxCssPlugin)(), //配置plugin
     ]
   ...
 };
