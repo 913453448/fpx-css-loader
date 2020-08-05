@@ -284,7 +284,7 @@ module.exports = {
   platform: 'web', //平台选择
   unitPrecision: 5, //计算过后的值保留的小数位
 });;
-            config.plugin("fpx-plugin").use(require("fpx-css-loader").FoxCssPlugin, [{}]);
+            config.plugin("fpx-plugin").use(require("fpx-webpack-loader").FoxCssPlugin, [{}]);
         });
     }
 };
