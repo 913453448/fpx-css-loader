@@ -13,7 +13,7 @@
 
 ### rem
 
-![res-rem](/Users/ocj1/doc/h5/study/fpx-css-loader/res-rem.png)
+![res-rem](https://github.com/913453448/fpx-css-loader/blob/master/res-rem.png)
 
 可以看到，绝大多数的浏览器是兼容的，平时项目用它完全是没毛病！
 
