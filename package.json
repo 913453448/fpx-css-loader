@@ -1,0 +1,28 @@
+{
+  "name": "fpx-css-loader",
+  "version": "1.0.0",
+  "description": "viewport（rem、vw适配）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viewport",
+    "rem",
+    "vw"
+  ],
+  "author": "yasin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://git.erp.ocj.com.cn:9000/fe/opgpublic/fox.git"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "browserslist": "^4.13.0",
+    "caniuse-lite": "^1.0.30001109",
+    "loader-utils": "^2.0.0",
+    "postcss": "^7.0.32",
+    "postcss-plugin-px2rem": "^0.8.1"
+  }
+}

@@ -1,0 +1,21 @@
+*.log*
+.cache
+.DS_Store
+.idea
+.vscode
+CHANGELOG*.md
+# npm
+node_modules
+package-lock.json
+
+# yarn
+yarn.lock
+
+# dist file
+es
+lib
+dist
+
+#lerna
+lerna-bug.log*
+.history
