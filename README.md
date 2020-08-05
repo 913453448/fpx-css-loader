@@ -382,7 +382,7 @@ export default {
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200805202109926.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
 
 
-项目已上传github：[https://github.com/913453448/fpx-css-loader](https://github.com/913453448/fpx-css-loader),  欢迎start、欢迎fork！！
+项目已上传github：[https://github.com/913453448/fpx-css-loader](https://github.com/913453448/fpx-css-loader),  欢迎star、欢迎fork！！
 
 
 
