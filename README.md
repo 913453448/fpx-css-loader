@@ -13,13 +13,14 @@
 
 ### rem
 
-![res-rem](https://github.com/913453448/fpx-css-loader/blob/master/res-rem.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200805202016449.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
+
 
 可以看到，绝大多数的浏览器是兼容的，平时项目用它完全是没毛病！
 
 ### vw
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200805202039614.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
 
-![res-vw](https://github.com/913453448/fpx-css-loader/blob/master/res-vw.png)
 
 vm跟rem比就差多了，不过当下大部分手机是可以覆盖的。
 
@@ -376,11 +377,10 @@ export default {
 
 ## 效果
 
-![res-iphone5](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone5.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202008052021106.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200805202109993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200805202109926.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Z2X2J1Zw==,size_16,color_FFFFFF,t_70)
 
-![res-iphone6](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone6.png)
-
-![res-iphone6p](https://github.com/913453448/fpx-css-loader/blob/master/res-iphone6p.png)
 
 项目已上传github：[https://github.com/913453448/fpx-css-loader](https://github.com/913453448/fpx-css-loader),  欢迎start、欢迎fork！！
 
