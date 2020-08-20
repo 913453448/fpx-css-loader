@@ -24,6 +24,9 @@
     "type": "git",
     "url": "https://github.com/913453448/fpx-css-loader.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
     "browserslist": "^4.13.0",
