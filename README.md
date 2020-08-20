@@ -138,7 +138,7 @@ const defaultOpts = { //默认配置
     fpx: 750, //ui基准
   },
   forceRem: false, //是否强制使用rem
-  forceVw: false, //是否青汁使用vw
+  forceVw: false, //是否强制使用vw
   platform: 'web', //平台选择
   unitPrecision: 5, //计算过后的值保留的小数位
 };

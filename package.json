@@ -1,6 +1,6 @@
 {
   "name": "fpx-webpack-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "viewport（rem、vw适配）",
   "main": "index.js",
   "scripts": {
